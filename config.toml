@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://subtle-bonbon-8d2773.netlify.app'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme='tranquilpeak'
